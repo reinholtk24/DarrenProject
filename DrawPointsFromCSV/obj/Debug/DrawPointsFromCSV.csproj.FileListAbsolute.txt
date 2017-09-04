@@ -1,0 +1,10 @@
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\bin\Debug\DrawPointsFromCSV.exe.config
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\bin\Debug\DrawPointsFromCSV.exe
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\bin\Debug\DrawPointsFromCSV.pdb
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.csprojResolveAssemblyReference.cache
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.Form1.resources
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.Properties.Resources.resources
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.csproj.GenerateResource.Cache
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.csproj.CoreCompileInputs.cache
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.exe
+C:\Users\Gon Freecs\source\repos\DrawPointsFromCSV\DrawPointsFromCSV\obj\Debug\DrawPointsFromCSV.pdb
